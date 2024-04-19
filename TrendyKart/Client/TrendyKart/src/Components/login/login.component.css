@@ -1,0 +1,85 @@
+.sign-up-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .sign-up-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .sign-up-left {
+    background-color: #007bff;
+    padding: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .sign-up-left-content {
+    text-align: center;
+  }
+  
+  .sign-up-left h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 2rem;
+    font-family: "Roboto";
+  }
+  
+  .sign-up-left img {
+    max-width: 200px;
+    margin-bottom: 2rem;
+  }
+  
+  .sign-up-left p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
+  
+  .sign-up-right {
+    padding: 3rem;
+  }
+  
+  .form-control {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 1rem;
+    font-size: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    padding: 1rem 2rem;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  .heading{
+    font-family: "Roboto";
+    font-size: 90px;
+  }
+  .image{
+    border-radius: 10px;
+  }
+  .form-group-with-validation {
+    min-height: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .form-group-with-validation .text-danger {
+    margin-top: 5px;
+  }

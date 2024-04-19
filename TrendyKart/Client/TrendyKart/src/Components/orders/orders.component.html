@@ -1,0 +1,24 @@
+<div class="background">
+  <div class="container my-5">
+      <h2 class="text-center mb-4 text-primary">My Orders</h2>
+      <div class="row">
+        <div class="col-md-6 col-lg-4 mb-4" *ngFor="let order of myorders">
+          <div class="card h-100 rounded-3 shadow">
+            <div class="row g-0 h-100">
+              <div class="col-4 d-flex align-items-center justify-content-center">
+                <img [src]="order.photo" class="img-fluid rounded-start" alt="Product Image">
+              </div>
+              <div class="col-8">
+                <div class="card-body d-flex flex-column h-100 justify-content-between">
+                  <div>
+                    <h5 class="card-title text-secondary">{{ order.product_name }}</h5>
+                    <p class="card-text text-success font-weight-bold mb-0 mr-2">Price: ₹{{ order.price }}</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</div>

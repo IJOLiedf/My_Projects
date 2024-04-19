@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|c:\\my_files\\trendykart\\server\\trendykart\\trendykart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\electronicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\electronicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\fashioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\fashioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\likes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\trendykart\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}|TrendyKart\\TrendyKart.csproj|solutionrelative:trendykart\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 102,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\Orders.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Orders.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T06:13:57.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\Address.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Address.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:28:51.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\CartController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAUwG8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:47:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\Cart.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Cart.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:46:09.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Likes.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Likes.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\Likes.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Likes.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\Likes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:43:53.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FashionController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\FashionController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\FashionController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\FashionController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\FashionController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T12:19:38.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElectronicsController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ElectronicsController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\ElectronicsController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ElectronicsController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\ElectronicsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:49:02.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\Products.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\Products.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:07:13.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T09:06:59.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Global.asax.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Global.asax.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Global.asax.cs",
+              "RelativeToolTip": "TrendyKart\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:13:03.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Models\\User.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Models\\User.cs",
+              "RelativeToolTip": "TrendyKart\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:53:42.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T06:53:29.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Web.config",
+              "RelativeDocumentMoniker": "TrendyKart\\Web.config",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Web.config",
+              "RelativeToolTip": "TrendyKart\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwEUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-06T04:37:44.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\packages.config",
+              "RelativeDocumentMoniker": "TrendyKart\\packages.config",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\packages.config",
+              "RelativeToolTip": "TrendyKart\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-06T04:37:40.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TrendyKart\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:35:51.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "TrendyKart\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:35:18.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:28:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TrendyKart\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\My_Files\\TrendyKart\\Server\\TrendyKart\\TrendyKart\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TrendyKart\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T04:26:45.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

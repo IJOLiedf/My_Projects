@@ -1,0 +1,25 @@
+
+<div class="background">
+  <div class="container my-4">
+    <h2 class="text-center mb-4 text-primary">Liked Products</h2>
+    <div class="row">
+      <div class="col-md-6 col-lg-4 mb-4" *ngFor="let product of likedproducts">
+        <div class="card h-100 rounded-3 shadow d-flex flex-row">
+          <div class="col-4 p-0">
+            <img [src]="product.photo" class="card-img-top rounded-top-3 img-fluid h-100" alt="Product Image">
+          </div>
+          <div class="card-body col-8 d-flex flex-column justify-content-between">
+            <div>
+              <h5 class="card-title text-secondary">{{ product.name }}</h5>
+              <p class="card-text text-success font-weight-bold">Price: ₹{{ product.price }}</p>
+            </div>
+            <div class="d-flex justify-content-around align-items-center">
+              <button class="btn btn-danger btn-sm" (click)="remove(product.id)">Remove</button>
+              <button class="btn btn-success btn-sm" (click)="addtocart(product,product.id)">Add to Cart</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+.minus{
+    background-color: red;
+    color:white;
+    border-radius: 5px;
+    width:40px;
+
+}
+
+.plus{
+    background-color: green;
+    color:white;
+    border-radius: 5px;
+    width:40px;
+}
+
+.para{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color:blue;
+}
+
+.quantity-input {
+    width: 100%;
+  }
+  
+  .quantity-button {
+    width: 40px;
+    background-color: #f8f9fa; /* Light gray background */
+    color: #212529; /* Dark text color */
+  }
+  
+  .quantity-field {
+    text-align: center;
+    border-color: #ced4da; /* Light gray border */
+  }
+  
+  .totalprice{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:24px;
+    font-weight: bold;
+  }
+
+  .text{
+    color:red;
+  }
+  .background{
+    background-color: antiquewhite;
+}

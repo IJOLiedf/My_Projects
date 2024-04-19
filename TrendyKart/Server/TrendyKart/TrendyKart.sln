@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrendyKart", "TrendyKart\TrendyKart.csproj", "{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F78B30B-9BB9-4C2B-899E-005DAF1A019B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65287880-CF62-44B3-A9E8-F52F2DB5631D}
+	EndGlobalSection
+EndGlobal
